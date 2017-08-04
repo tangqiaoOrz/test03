@@ -1,0 +1,6 @@
+2017-08-04 17:26:02,246 INFO (StartupInfoLogger.java:48)- Starting Application on V3OOEBKJC34TRZ4 with PID 7936 (C:\data\web\helloworld\target\classes started by Administrator in C:\data\web\helloworld)
+2017-08-04 17:26:02,250 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-08-04 17:26:02,250 INFO (SpringApplication.java:662)- No active profile set, falling back to default profiles: default
+2017-08-04 17:26:03,982 INFO (StartupInfoLogger.java:57)- Started Application in 2.028 seconds (JVM running for 2.35)
+2017-08-04 17:26:17,908 DEBUG (HelloController.java:31)- 访问hello
+2017-08-04 17:26:41,160 DEBUG (HelloController.java:37)- 访问helloName,Name=aaa
